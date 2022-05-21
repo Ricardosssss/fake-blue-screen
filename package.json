@@ -1,0 +1,19 @@
+{
+  "build": {
+    "productName": "BlueScreen",
+    "icon": "icon.png"
+  },
+  "name": "screen",
+  "version": "1.0.0",
+  "description": "fake windows blue screen",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "undefined",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^18.2.4"
+  }
+}
